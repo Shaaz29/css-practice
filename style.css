@@ -1,5 +1,5 @@
  h1{
-         /* RGB (Red,Green,Blue) */
+         /* RGB (Red,Green,Blue) we can use color pickers*/
             color:rgb(255,0,0);
             background-color:black;
         }
@@ -9,10 +9,12 @@ h2{
 }
     p{ 
         color:white;
-        background-color: black;
+        background-color: red;
     }
 
     button{
         color:white;
         background-color: blue;
     }
+    /* Hexadecimal color code */
+    /* #ffa511 where ff is red, a5 is green and 11 is blue */
