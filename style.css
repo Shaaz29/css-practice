@@ -3,11 +3,14 @@ h1 {
     color: rgb(55, 0, 255);        /* Red color */
     background-color: white;
     text-align: center;
+    text-decoration: red underline;
 }
 
 /* Sub-heading styles */
 h2 {
-    color: orange;
+    color: rgb(0, 81, 255);
+    font-weight: normal;
+    text-decoration: wavy red underline;
 }
 
 /* Paragraph styles */
