@@ -11,12 +11,14 @@ h2 {
     color: rgb(0, 81, 255);
     font-weight: normal;
     text-decoration: wavy red underline;
+    letter-spacing: 3px;
 }
 
 /* Paragraph styles */
 p {
     color: black;
     background-color: grey;
+    line-height: 2.5 ;
 }
 
 /* Button styles using Hex color */
