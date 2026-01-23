@@ -1,20 +1,23 @@
- h1{
-         /* RGB (Red,Green,Blue) we can use color pickers*/
-            color:rgb(255,0,0);
-            background-color:black;
-        }
-
-h2{
-    color:orange;
+/* Heading styles using RGB color */
+h1 {
+    color: rgb(55, 0, 255);        /* Red color */
+    background-color: white;
+    text-align: center;
 }
-    p{ 
-        color:white;
-        background-color: red;
-    }
 
-    button{
-        color:white;
-        background-color: blue;
-    }
-    /* Hexadecimal color code */
-    /* #ffa511 where ff is red, a5 is green and 11 is blue */
+/* Sub-heading styles */
+h2 {
+    color: orange;
+}
+
+/* Paragraph styles */
+p {
+    color: black;
+    background-color: grey;
+}
+
+/* Button styles using Hex color */
+button {
+    color: green;
+    background-color: #ffa511;   /* Hex color code */
+}
