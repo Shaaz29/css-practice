@@ -4,6 +4,7 @@ h1 {
     background-color: white;
     text-align: center;
     text-decoration: red underline;
+    font-style: italic;
 }
 
 /* Sub-heading styles */
@@ -19,6 +20,7 @@ p {
     color: black;
     background-color: grey;
     line-height: 2.5 ;
+    font-size: 20px;
 }
 
 /* Button styles using Hex color */
